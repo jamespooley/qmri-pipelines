@@ -4,9 +4,8 @@ Pipelines for quantitative MRI techniques
 ## qMRI Software to Explore
 * [QUIT](https://github.com/spinicist/QUIT) [C++]
 * [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
-* 
-## Some Useful Papers/Books to Explore Whenever I Get the Time
 
+## Some Useful Papers/Books to Explore Whenever I Get the Time
 * Deoni, S. C. L. (2010). Quantitative relaxometry of the brain. *Topics in Magnetic Resonance Imaging.*
 * Henkelman, R. M. et al. (2001). Magnetization transfer in MRI: A review. *Nuclear Magnetic Resonance in Biomedicine.*
 * Marrale, M. et al. (2011). Physics, techniques and review of neuroradiological applications of diffusion kurtosis imaging (DKI). *Clinical Neuroradiology.*
