@@ -1,7 +1,7 @@
 # qmri-pipelines
 Pipelines for quantitative MRI techniques
 
-## Registration and Resampling
+## Registration and Resampling Recommendations
 
 According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/DESPOT.tex) document, here is one recommendation re: coregistration:
 >
