@@ -16,10 +16,6 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 > You will also need to edit line 16 to provide a target image to register to, with  a sensible matrix size as described above. When the template was written our files had been zero-filled to 256x256x192, so simply subsampling the first SPGR image by 2 created a target with the correct matrix size. You may wish to register to a template, or create a specific matrix size using `fslcreatehd`.
 
 
-## qMRI Software to Explore
-* [QUIT](https://github.com/spinicist/QUIT) [C++]
-* [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
-
 ## Some Useful Papers/Books to Explore Whenever I Get the Time
 
 #### Background and General Overviews of Quantitative MRI
@@ -46,9 +42,8 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 
 * Zhang, H. et al. (2012). NODDI: Practical *in vivo* neurite orientation dispersion and density imaging of the brain. *NeuroImage, 61*, 1000-1016.
 
-#### Software
-
+## qMRI Software to Explore
+* [QUIT (Quantitative Imaging Tools)](https://github.com/spinicist/QUIT) [C++]
+* [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
 * C-PAC (Configurable Pipeline for the Analysis of Connectomes) [Python]
-* QUIT (Quantitative Imaging Tools) [C++ and Bash]
 * Nipype [Python]
-* mrQuant [MATLAB]
