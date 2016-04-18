@@ -21,10 +21,34 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 * [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
 
 ## Some Useful Papers/Books to Explore Whenever I Get the Time
+
+#### Background and General Overviews of Quantitative MRI
+
+* *MRI: The Basics*
+* Tofts, P. (Ed.) (2004). *Quantitative MRI of the Brain: Measuring Changes Caused by Disease*
+
+#### Quantitative Relaxometry
+
 * Deoni, S. C. L. (2010). Quantitative relaxometry of the brain. *Topics in Magnetic Resonance Imaging.*
+* Deoni, S. C. L. et al. (2015). Modern methods for accurate T1, T2, and proton density MRI. In M. Filippi (Ed.) *Oxford Textbook of Neuroimaging*
+
+#### Quantitative Magnetization Transfer
+
 * Henkelman, R. M. et al. (2001). Magnetization transfer in MRI: A review. *Nuclear Magnetic Resonance in Biomedicine.*
+
+#### Diffusion Kurtosis Imaging
+
+* Soares, J. M. et al. (2013). A hitchhiker's guide to diffusion tensor imaging. *Frontiers in Neuroscience.*
 * Marrale, M. et al. (2011). Physics, techniques and review of neuroradiological applications of diffusion kurtosis imaging (DKI). *Clinical Neuroradiology.*
 * Steven, A. J. et al. (2014). Diffusion kurtosis imaging: An emerging technique for evaluating the microstructural environment of the brain. *American Journal of Roentgenology.*
-* *MRI: The Basics*
-* *Quantitative MRI of the Brain: Measuring Change*
-* Soares, J. M. et al. (2013). A hitchhiker's guide to diffusion tensor imaging. *Frontiers in Neuroscience.*
+
+#### NODDI
+
+* Zhang, H. et al. (2012). NODDI: Practical *in vivo* neurite orientation dispersion and density imaging of the brain. *NeuroImage, 61*, 1000-1016.
+
+#### Software
+
+* C-PAC (Configurable Pipeline for the Analysis of Connectomes) [Python]
+* QUIT (Quantitative Imaging Tools) [C++ and Bash]
+* Nipype [Python]
+* mrQuant [MATLAB]
