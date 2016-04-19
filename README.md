@@ -3,6 +3,25 @@ Pipelines for quantitative MRI techniques
 
 ## Registration and Resampling Recommendations
 
+### Suckling et al. (2014) Recommendations
+
+> All T1-weighted images from DESPOT1 and IRSPGR
+> sequences were processed with FSL v4.0 (http://www.fmrib.
+> ox.ac.uk/fsl). Extracerebral tissues were removed with the
+> Brain Extraction Tool [Smith, 2002], and maps of partial vol-
+> ume estimates of grey matter occupancy were calculated with
+> FMRIB's Automated Segmentation Tool (FAST) [Zhang et al.,
+> 2001]. All grey matter images were initially linearly registered
+> (FLIRT) [Jenkinson et al., 2002] and then non-linearly registered
+> (FNIRT) [Klein et al., 2009] to the stereotactic coordinate
+> system of the Montreal Neurological Institute (MNI). Finally,
+> to account for residual inter-subject misregistration, the maps
+> of partial volume estimates of grey matter were smoothed
+> with a three-dimensional Gaussian kernel with standard
+> deviation 54mm (full width at half maximum = 9.4 mm).
+
+### QUIT Recommendations
+
 According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/DESPOT.tex) document, here is one recommendation re: coregistration:
 >
 > As with most MRI techniques, the effects of sample motion must be minimised before processing. This can be achieved by registering all the images together using either FSL, SPM, or your software package of choice. Because the contrast of the SPGR and SSFP images changes with the flip-angle, mutual information should be used as the registration cost function, and it is currently recommended to daisy-chain the registrations (i.e. flip-angle 1 to flip-angle 2, flip-angle 2 to flip-angle 3, etc.). How best to perform the registration is an open question.
@@ -27,6 +46,7 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 
 * Deoni, S. C. L. (2010). Quantitative relaxometry of the brain. *Topics in Magnetic Resonance Imaging.*
 * Deoni, S. C. L. et al. (2015). Modern methods for accurate T1, T2, and proton density MRI. In M. Filippi (Ed.) *Oxford Textbook of Neuroimaging*
+* Suckling, J. et al. (2014). Are power calculations useful? A multicentre neuroimaging study. *Human Brain Mapping*
 
 #### Quantitative Magnetization Transfer
 
