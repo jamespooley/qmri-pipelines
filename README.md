@@ -64,6 +64,7 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 
 ## qMRI Software to Explore
 * [QUIT (Quantitative Imaging Tools)](https://github.com/spinicist/QUIT) [C++]
+* [QMAP (Quantitative MRI Analysis Package)](https://www.medphysics.wisc.edu/~samsonov/qmap/) [MATLAB]
 * [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
 * C-PAC (Configurable Pipeline for the Analysis of Connectomes) [Python]
 * Nipype [Python]
