@@ -43,7 +43,7 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 
 #### Quantitative Relaxometry
 
-The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, but you'll most likely get paywalled if you try and access it. The Deoni (2010) overview has a lot of overlap with this chapter and is open access. 
+The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, but you'll most likely get paywalled by Oxford University Press if you try to access it. The Deoni (2010) overview has a lot of overlap with this chapter and is open access. 
 
 * Deoni, S. C. L. (2010). Quantitative relaxometry of the brain. *Topics in Magnetic Resonance Imaging.*
 * Deoni, S. C. L. et al. (2015). Modern methods for accurate T1, T2, and proton density MRI. In M. Filippi (Ed.) *Oxford Textbook of Neuroimaging*
