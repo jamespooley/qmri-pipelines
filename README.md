@@ -69,5 +69,5 @@ The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, b
 * [QMAP (Quantitative MRI Analysis Package)](https://www.medphysics.wisc.edu/~samsonov/qmap/) [MATLAB]
 * [mrQuant](https://github.com/vistalab/vistasoft/tree/master/mrQuant/relaxometry) [MATLAB]
 * [DKI in Dipy](http://nipy.org/dipy/examples_built/reconst_dki.html) [Python]
-* [C-PAC (Configurable Pipeline for the Analysis of Connectomes)[http://fcp-indi.github.io/docs/user/] [Python]
+* [C-PAC (Configurable Pipeline for the Analysis of Connectomes)](http://fcp-indi.github.io/docs/user/) [Python]
 * [Nipype command line interfaces](http://nipy.org/nipype/devel/interface_specs.html)
