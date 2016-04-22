@@ -50,7 +50,7 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 #### Quantitative Magnetization Transfer
 
 * Henkelman, R. M. et al. (2001). Magnetization transfer in MRI: A review. *Nuclear Magnetic Resonance in Biomedicine.*
-* [Quantitative magnetization transfer imaging techniques and applications]{http://etd.library.vanderbilt.edu/available/etd-11262007-150546/unrestricted/Dissertation_XiaweiOu.pdf}
+* [Quantitative magnetization transfer imaging techniques and applications](http://etd.library.vanderbilt.edu/available/etd-11262007-150546/unrestricted/Dissertation_XiaweiOu.pdf)
 
 #### Diffusion Kurtosis Imaging
 
