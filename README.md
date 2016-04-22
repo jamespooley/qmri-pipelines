@@ -79,5 +79,5 @@ The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, b
 ## TODOs
 
 * Get better grasp on differences and overlap between registration programs; viz., AFNI's [3dvolreg](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dvolreg.html) and [3dAllineate](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dAllineate.html).
-* Read [this ](https://afni.nimh.nih.gov/pub/dist/doc/program_help/README.registration.html) at some point.
+* Read [this](https://afni.nimh.nih.gov/pub/dist/doc/program_help/README.registration.html) at some point.
 * Most DESPOT pipelines I've seen (inclusind the ones above) use FSL's FLIRT and FNIRT for coregistration. Probably just a matter of this being the lab software of choice, but need to play around with these, too.
