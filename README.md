@@ -72,4 +72,4 @@ The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, b
 * [C-PAC (Configurable Pipeline for the Analysis of Connectomes)](http://fcp-indi.github.io/docs/user/) [Python]
 * [Nipype command line interfaces](http://nipy.org/nipype/devel/interface_specs.html)
 * [AMICO (Accelerated Microstructure Imaging via Convex Optimization)](https://github.com/daducci/AMICO)
-* VBQ (Voxel-Based Quantification)[http://www.fil.ion.ucl.ac.uk/Research/physics_info/QuantMRI_VBM.html]
+* [VBQ (Voxel-Based Quantification)](http://www.fil.ion.ucl.ac.uk/Research/physics_info/QuantMRI_VBM.html)
