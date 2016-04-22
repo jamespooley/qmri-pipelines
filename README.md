@@ -3,6 +3,10 @@ Pipelines for quantitative MRI techniques
 
 ## Registration and Resampling Recommendations
 
+These dissertations have some suggestions:
+* [Implementation and Evaluation of Motion Correction for Quantiative MRI](http://liu.diva-portal.org/smash/get/diva2:370001/FULLTEXT01.pdf)
+* [Brain Microstructure Mapping Using Quantiative and Diffusion MRI](https://tel.archives-ouvertes.fr/file/index/docid/1063198/filename/VA2_LEBOIS_ALICE_23072014.pdf)
+
 ### Suckling et al. (2014) Recommendations
 
 > All T1-weighted images from DESPOT1 and IRSPGR
