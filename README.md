@@ -24,7 +24,7 @@ Pipelines for quantitative MRI techniques
 
 According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/DESPOT.tex) document, here is one recommendation re: coregistration:
 >
-> As with most MRI techniques, the effects of sample motion must be minimised before processing. This can be achieved by registering all the images together using either FSL, SPM, or your software package of choice. Because the contrast of the SPGR and SSFP images changes with the flip-angle, mutual information should be used as the registration cost function, and it is currently recommended to daisy-chain the registrations (i.e. flip-angle 1 to flip-angle 2, flip-angle 2 to flip-angle 3, etc.). How best to perform the registration is an open question.
+> As with most MRI techniques, the effects of sample motion must be minimised before processing. This can be achieved by registering all the images together using either FSL, SPM, or your software package of choice. **Because the contrast of the SPGR and SSFP images changes with the flip-angle, mutual information should be used as the registration cost function, and it is currently recommended to daisy-chain the registrations (i.e. flip-angle 1 to flip-angle 2, flip-angle 2 to flip-angle 3, etc.).** How best to perform the registration is an open question.
 >
 > The scans must be resampled to the same matrix size.  Often the $B_1$ map will be acquired at lower resolution, and scanners may zero-fill images before reconstruction. It is highly recommended that this resampling is to the original matrix size used for the SPGR and SSFP images. Processing at a larger matrix size will not improve results but will considerably lengthen processing time.
 >
