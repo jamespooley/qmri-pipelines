@@ -20,7 +20,7 @@ Pipelines for quantitative MRI techniques
 > with a three-dimensional Gaussian kernel with standard
 > deviation 54mm (full width at half maximum = 9.4 mm).
 
-### QUIT Recommendations
+### QUIT Developer Recommendations
 
 According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/DESPOT.tex) document, here is one recommendation re: coregistration:
 >
@@ -34,8 +34,7 @@ According to [this](https://github.com/spinicist/old_QUIT/blob/master/doc/latex/
 
 > You will also need to edit line 16 to provide a target image to register to, with  a sensible matrix size as described above. When the template was written our files had been zero-filled to 256x256x192, so simply subsampling the first SPGR image by 2 created a target with the correct matrix size. You may wish to register to a template, or create a specific matrix size using `fslcreatehd`.
 
-
-## Some Useful Papers/Books to Explore Whenever I Get the Time
+## Resources to Explore
 
 #### Background and General Overviews of Quantitative MRI
 
