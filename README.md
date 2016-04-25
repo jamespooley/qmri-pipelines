@@ -79,7 +79,7 @@ The Deoni et al. (2015) chapter is the best overview of qMRI I've come across, b
 * [AMICO (Accelerated Microstructure Imaging via Convex Optimization)](https://github.com/daducci/AMICO)
 * [VBQ (Voxel-Based Quantification)](http://www.fil.ion.ucl.ac.uk/Research/physics_info/QuantMRI_VBM.html)
 * [Quantitative](https://github.com/sujason/quantitative)
-* 
+
 ## TODOs
 
 * Get better grasp on differences and overlap between registration programs; viz., AFNI's [3dvolreg](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dvolreg.html) and [3dAllineate](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dAllineate.html).
